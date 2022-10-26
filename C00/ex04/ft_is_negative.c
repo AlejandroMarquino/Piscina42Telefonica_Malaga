@@ -18,3 +18,8 @@ void	ft_is_negative(int n)
 	else
 		write (1, &"N", 1);
 }
+// int main()
+// {
+// 	ft_is_negative();
+// 	return(0);
+// }
